@@ -1,6 +1,0 @@
-VOID MAIN ( ) { 
-    while ( imprisoned ) {
-        hello = 23 ;
-        pi =  ;
-    }
-}
